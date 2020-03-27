@@ -1,7 +1,9 @@
-# LegalTech
+# LegalTech (not-a-lawyer Fork)
 Das erste Open Source Lehrbuch zum Thema Digitalisierung des Rechts- #legaltech, #legaloperations # digitalisierung. Aus der Community für die Studierende und Interessierte.
 
 Bei dem nachfolgenden Inhaltsverzeichnis handelt es sich um einen bloßen Vorschlag, wobei die entsprechenden Abschnitte als Repository bereits hinterlegt und verknüpft sind. Änderungsvorschläge sowie Kapitelvorschläge, genauso wie Feedback oder Fragen und Anregungen gerne und jederzeit an: danielladomokos@gmail.com
+
+Fragen bezüglich dieses Forks können gerne an [mich](https://github.com/not-a-lawyer) gerichtet werden.
 
 Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/DaniellaDomokos/git-erklaert)
 
@@ -11,41 +13,20 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
 
 # Literatur- und Quellenverzeichnis
 
-# 1. Abschnitt: Grundlagen 
-  ## §1 Historische Hintergründe der Rechtsinformatik
-   ### I. Rechtsinformatik im 20. Jahrhundert
-   ### II. Entwicklungen ab der Jahrtausendewende
-   ### III. Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
-   ### IV. Zukunftsausblick: werden Juristen durch KI ersetzt?
-   ### V. Kollaboration und Kooperation
-# 2. Abschnitt: [Technologische Entwicklungen und ihre rechtliche Bewertung](https://github.com/DaniellaDomokos/technologische-Entwicklungen-und-ihre-rechtliche-bewertung)
-  ## §1 Die Blockchaintechnologie - sinnvolle Einsatzszenarien und Abgrenzung zu Datenbanken
-   ### I. Distributed Ledger Technologie
-   ### II. Smart Contracts
-   ### III. Datenbanken
-  ## §2 Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
-  ### I. [Algorithmen](https://github.com/not-a-lawyer/LegalTech/blob/algorithm/Zweiter%20Abschnitt/§2%20KI/I.%20Algorithmus.md)
-  ### II. Machine Learning
-  ### III. Expertensysteme
-## §3 Natural Language Processing
-## §4 Elektronische Signatur
-## §5 Verschlüsselung und Anonymisierung
-# 3. Abschnitt: Rechtliche Fragestellungen
- ## §1 Der Einfluss der Digitalisierung auf das Berufsrecht
- ## §2 Alternative Service Provider
- ## §3 InsureTech, Fintech, RealTec
- # 4. [Prozesse, Strukturen und wirtschaftliche Zusammenhänge](https://github.com/DaniellaDomokos/-Prozesse-Strukturen-und-wirtschaftliche-Zusammenhaenge/blob/master/README.md)
- ## §1 Legal Operations
-  ### I. Legal Project Management
-  ### II. Legal Pricing 
- ## §2 Legal Desing Thinking
-# 5. Abschnitt: Kompetenzen in der digitalisierten Welt
- ## §1 Mindset, Schnittstellenkompetenz und lebenslanges Lernen 
- ## §2 Marketing, PR und Kommunikation
- ## §3 BWL, VWL, Unternehmerisches Denken
- # 5+1. [Coding for Lawyers](https://github.com/DaniellaDomokos/Coding-for-Lawyers)- Muss jede/r Jurist/in programmieren lernen?
- ## §1 Grundlagen des Programmierens
- ## §2 Programmiersprachen und ihre Funktionen/Eigenschaften 
+# Grundlagen 
+  ## Hintergründe der Rechtsinformatik
+   ### Rechtsinformatik im 20. Jahrhundert
+   ### Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
+   ### Zukunftsausblick: werden Juristen durch KI ersetzt?
+  
+
+  ## Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
+  ### [Algorithmen](https://github.com/not-a-lawyer/LegalTech/blob/algorithm/Zweiter%20Abschnitt/§2%20KI/I.%20Algorithmus.md)
+  ### Machine Learning
+  ### Expertensysteme
+## Natural Language Processing
+
+
 
 
 
