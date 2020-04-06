@@ -16,6 +16,9 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
 # Grundlagen 
   ## Hintergründe der Rechtsinformatik
    ### Rechtsinformatik im 20. Jahrhundert
+   
+   Dazu kann ich den Aufsatz [Forking, Itch-Scratching und Re-Merging. Ein informatischer Blick auf die Rechtsinformatik](https://einst-ig.de/publikation/ishiilutterbeckpallas-forkingitch-scratchingundre-mergingeininformatischerblickaufdierechtsinformatik-2008-03-03) empfehlen. Es wird über die Vergangenheit, Gegenwart und eine mögliche Zukunft der Rechtsinformatik berichtet
+   
    ### Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
    ### Zukunftsausblick: werden Juristen durch KI ersetzt?
   
