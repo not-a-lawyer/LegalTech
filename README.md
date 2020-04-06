@@ -20,6 +20,9 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
    Dazu kann ich den Aufsatz [Forking, Itch-Scratching und Re-Merging. Ein informatischer Blick auf die Rechtsinformatik](https://einst-ig.de/publikation/ishiilutterbeckpallas-forkingitch-scratchingundre-mergingeininformatischerblickaufdierechtsinformatik-2008-03-03) empfehlen. Es wird über die Vergangenheit, Gegenwart und eine mögliche Zukunft der Rechtsinformatik berichtet
    
    ### Möglichkeiten und Grenzen des Machbaren heute und in der Zukunft
+   
+   In der Informatik wird alles Machbare innerhalb der Berechenbarkeitstheorie behandelt. Eine (juristische) Berechenbarkeitstheorie gibt es nicht wirklich, weil anders als Informatik-Probleme sind die Probleme der Rechtswissenschaft im Allgemeinen nicht wohl-definiert, als eindeutig im mathematischen Sinn erfassbar. Machbar mit der Rechtsinformatik kann also grundsätzlich nur das sein, was auch mit innerhalb der Informatik als machbar gilt.
+   
    ### Zukunftsausblick: werden Juristen durch KI ersetzt?
   
 
