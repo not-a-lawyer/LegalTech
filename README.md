@@ -24,6 +24,8 @@ Wie man partizipieren kann, erklärt [Clara Morgeneyer](https://github.com/Danie
    In der Informatik wird alles Machbare innerhalb der Berechenbarkeitstheorie behandelt. Eine (juristische) Berechenbarkeitstheorie gibt es nicht wirklich, weil anders als Informatik-Probleme sind die Probleme der Rechtswissenschaft im Allgemeinen nicht wohl-definiert, als eindeutig im mathematischen Sinn erfassbar. Machbar mit der Rechtsinformatik kann also grundsätzlich nur das sein, was auch mit innerhalb der Informatik als machbar gilt.
    
    ### Zukunftsausblick: werden Juristen durch KI ersetzt?
+   
+   Halte ich kurz- und mittelfristig für abwegig. Eine 18-Punkte Examensklausur wird in nächster Zeit von keiner Maschine geschrieben werden. Dafür fehlt es schlicht an den Klausuren in digitaler Form, um die KI zu trainieren. Auch wird es wohl dauern, bis die KI gut genug ist, einen Klausur zu verfassen, die von einem Korrektor mit 18 Punkten bewertet wird. Theoretisch denkbar ist es jedoch. Vielleicht könnte man dies als juristischen Turing-Test (Savigny-Test?) bezeichnen.
   
 
   ## Künstliche Intelligenz und was oft fälschlicherweise(?) darunter subsumiert wird
